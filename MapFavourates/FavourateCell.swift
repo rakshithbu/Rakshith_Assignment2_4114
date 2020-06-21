@@ -2,8 +2,8 @@
 //  FavourateCell.swift
 //  MapFavourates
 //
-//  Created by Nirmal Sumanth on 21/06/20.
-//  Copyright © 2020 Nirmal Sumanth. All rights reserved.
+//  Created by Rakshith on 21/06/20.
+//  Copyright © 2020 Rakshith. All rights reserved.
 //
 import UIKit
 import Foundation
